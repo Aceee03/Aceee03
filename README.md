@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a **5th-year Computer Science engineering student at E
 ## 🔧 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,prisma,mysql,tailwind,js,ts,py,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,prisma,mysql,tailwind,js,ts,py,git,github,vercel,netlify,tensorflow," />
 </p>
 
 ## 📈 Currently Learning
