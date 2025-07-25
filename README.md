@@ -4,7 +4,7 @@
 
 > 🎓 Computer Science student • 🧠 AI & Data Science enthusiast • 💻 Full-stack Web Developer
 
-Welcome to my GitHub! I'm a passionate **MERN developer** and a **5th-year Computer Science engineering student at ESTIN**, currently diving deep into **Data Science and Artificial Intelligence**. I enjoy building modern, responsive apps and learning how to turn data into real insights.
+Welcome to my GitHub! I'm a **5th-year Computer Science engineering student at ESTIN**, currently diving deep into **Data Science and Artificial Intelligence**. I enjoy building modern, responsive apps and learning how to turn data into real insights.
 
 ---
 
